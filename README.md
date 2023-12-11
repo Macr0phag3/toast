@@ -17,8 +17,7 @@
 
 - 安装 `toa.ko`: `bash -c "$(curl -fsSL https://thunder-pro-mainland-1258348367.cos.ap-guangzhou.myqcloud.com/TOA/compile_install_toa.sh)`
 - 确认 `toa.ko` 载入成功: `lsmod | grep toa`
-![image](https://github.com/Macr0phag3/toast/assets/20874963/0c17aad0-e0d3-4f48-98a6-6108366b4b3b)
-
+  > ![image](https://github.com/Macr0phag3/toast/assets/20874963/0c17aad0-e0d3-4f48-98a6-6108366b4b3b)
 - 安装 nginx: `sudo apt install nginx -y`
 - 确认已启动: `sudo systemctl status nginx`
 - 查看 nginx 日志: `tail -f /var/log/nginx/access.log`
