@@ -15,7 +15,7 @@
 ## 2. 搭建复现环境
 > 用来验证 TOA 插入成功
 
-- 安装 `toa.ko`: `bash -c "$(curl -fsSL https://thunder-pro-mainland-1258348367.cos.ap-guangzhou.myqcloud.com/TOA/compile_install_toa.sh)`，或者见：[tencentyun](https://github.com/tencentyun/qcloud-documents/blob/master/product/%E5%AD%98%E5%82%A8%E4%B8%8ECDN/%E5%85%A8%E7%90%83%E5%BA%94%E7%94%A8%E5%8A%A0%E9%80%9F/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/%E9%85%8D%E7%BD%AE%20TOA%20%E6%9D%A5%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7%E7%9C%9F%E5%AE%9E%20IP/TOA%20%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E6%96%B9%E6%B3%95.md) 的教程
+- 安装 `toa.ko`: `bash -c "$(curl -fsSL https://thunder-pro-mainland-1258348367.cos.ap-guangzhou.myqcloud.com/TOA/compile_install_toa.sh)`，或者见 [tencentyun](https://github.com/tencentyun/qcloud-documents/blob/master/product/%E5%AD%98%E5%82%A8%E4%B8%8ECDN/%E5%85%A8%E7%90%83%E5%BA%94%E7%94%A8%E5%8A%A0%E9%80%9F/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/%E9%85%8D%E7%BD%AE%20TOA%20%E6%9D%A5%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7%E7%9C%9F%E5%AE%9E%20IP/TOA%20%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E6%96%B9%E6%B3%95.md) 的教程
 - 确认 `toa.ko` 载入成功: `lsmod | grep toa`
   > ![image](https://github.com/Macr0phag3/toast/assets/20874963/0c17aad0-e0d3-4f48-98a6-6108366b4b3b)
 - 安装 nginx: `sudo apt install nginx -y`
