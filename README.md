@@ -24,4 +24,4 @@
 - 发起测试请求: `curl 127.0.0.1`
 
 测试结果: 
-![image](https://github.com/Macr0phag3/toast/assets/20874963/b5ab2ed2-6219-40af-b55f-42bbddf1a75d)
+![image](https://github.com/Macr0phag3/toast/assets/20874963/a15c16f0-c57c-4153-853e-a5a9c6dc40f9)
