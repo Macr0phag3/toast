@@ -1,4 +1,4 @@
-## 搭建执行环境
+## 1. 搭建执行环境
 > 用来执行 `toast.py`
 
 **系统环境**（这里只列举我自己的环境用作参考，其他系统和内核需要自行匹配）
@@ -12,7 +12,7 @@
 
 至此，本机所有 TCP 请求均会携带 `TOA`。
 
-## 搭建复现环境
+## 2. 搭建复现环境
 > 用来验证 TOA 插入成功
 
 - 安装 `toa.ko`: `bash -c "$(curl -fsSL https://thunder-pro-mainland-1258348367.cos.ap-guangzhou.myqcloud.com/TOA/compile_install_toa.sh)`
