@@ -35,3 +35,13 @@
 
 测试结果: 
 ![image](https://github.com/Macr0phag3/toast/assets/20874963/a15c16f0-c57c-4153-853e-a5a9c6dc40f9)
+
+## License
+Copyright © 2023 [Macr0phag3](https://github.com/Macr0phag3).
+
+This project is MIT licensed.
+
+## Others
+<img src="https://clean-1252075454.cos.ap-nanjing.myqcloud.com/20200528120800990.png" width="500">
+
+[![Stargazers over time](https://starchart.cc/Macr0phag3/toast.svg)](https://starchart.cc/Macr0phag3/toast)
