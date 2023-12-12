@@ -1,3 +1,5 @@
+<img src="https://github.com/Macr0phag3/toast/assets/20874963/1e3d7ef1-ee3a-4d1c-80c7-4b1086b42048" width="300">
+
 ## 1. 搭建执行环境
 > 用来执行 `toast.py`
 
